@@ -5,3 +5,4 @@ rebase-practice繝悶Λ繝ｳ繝��譖ｴ譽�(rebase conflict逕ｨ?
 rebase pull逕ｨ
 stash 邱���
 stash training (tracked)
+stash training (2nd)
